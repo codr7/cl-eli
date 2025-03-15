@@ -1,0 +1,9 @@
+* reimplement and/or using T
+
+* add for loop
+** add iter support
+*** list/string/hash table
+
+(ql:quickload "cl-eli")
+~\quicklisp\local-projects\
+New-Item -Path cl-eli -ItemType SymbolicLink -Value "\\wsl.localhost\Ubuntu\home\codr7\Code\cl-eli"
